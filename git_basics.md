@@ -10,3 +10,5 @@
 Zuerst wird der Ordner wo man Klonen wil festgelegt dies macht man mit diesem command `$ cd Documents/Github`
 Danach wird dieser Code angewendet `git clone (URL) `
 
+
+
